@@ -1,4 +1,4 @@
-# Financial Research Assistant with Augmented Query Expansion
+# Financial Research Assistant with Augmented Query
 
 ## Project Description
 
